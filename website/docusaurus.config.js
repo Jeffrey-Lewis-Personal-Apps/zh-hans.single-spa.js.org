@@ -96,7 +96,7 @@ module.exports = {
       ],
     },
     image: 'img/docusaurus.png',
-    navbar: {
+    items: {
       title: 'single-spa',
       logo: {
         alt: 'single-spa Logo',
@@ -119,7 +119,7 @@ module.exports = {
         { to: 'blog/', label: 'Blog' },
         { href: 'https://opencollective.com/single-spa', label: 'Donate' },
         { href: 'https://github.com/single-spa/single-spa', label: 'GitHub' },
-        { to: 'languages', label: '简Жहि Languages'},
+        { to: 'languages', label: '简Жहि Languages' },
       ],
     },
     googleAnalytics: {
